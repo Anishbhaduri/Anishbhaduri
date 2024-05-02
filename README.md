@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anishbhaduri&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anishbhaduri&show_icons=true&theme=merko)
 ![tropht stats](https://github-profile-trophy.vercel.app/?username=Anishbhaduri&theme=dark)
+
+### Socials & their links:
+![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
