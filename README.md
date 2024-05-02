@@ -25,3 +25,9 @@ Here are some ideas to get you started:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
   ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
 
+
+
+### Statistics:
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anishbhaduri&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anishbhaduri&show_icons=true&theme=merko)
+![tropht stats](https://github-profile-trophy.vercel.app/?username=Anishbhaduri&theme=dark)
