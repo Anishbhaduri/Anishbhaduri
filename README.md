@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 ![tropht stats](https://github-profile-trophy.vercel.app/?username=Anishbhaduri&theme=dark)
 
 ### Socials & their links:
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
