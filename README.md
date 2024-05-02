@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  I dont really care much-use whatever you like!
 - ⚡ Fun fact: I am quite lazier than what I seem to be xD..
 -->
- [!] (https://img.shields.io/badge/Coggle-9ED56B.svg?style=for-the-badge&logo=Coggle&logoColor=black)
-  https://img.shields.io/badge/Coding%20Ninjas-DD6620.svg?style=for-the-badge&logo=Coding-Ninjas&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
-  https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white
-  https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black
-  https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white
-  https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
-  https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
+ [!Coggle] (https://img.shields.io/badge/Coggle-9ED56B.svg?style=for-the-badge&logo=Coggle&logoColor=black)
+  [!Coding-Ninja](https://img.shields.io/badge/Coding%20Ninjas-DD6620.svg?style=for-the-badge&logo=Coding-Ninjas&logoColor=white)
+  [!CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+  [!CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+  [!C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+  [!C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+  [!HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+  [!LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
